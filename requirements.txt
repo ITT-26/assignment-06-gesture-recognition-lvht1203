@@ -1,0 +1,8 @@
+tensorflow==2.16.2
+pyglet==1.5.31
+tqdm==4.64.0
+jupyter==1.0.0
+ipykernel==6.9.1
+scikit-learn==1.6.1
+matplotlib==3.5.1
+numpy==1.26.4
